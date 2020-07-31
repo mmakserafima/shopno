@@ -1,0 +1,125 @@
+/* GLOBAL */
+.card{
+  background: url("../res/pink.jpg")
+}
+.person{
+  background: url("../res/teal.jpg");
+  height: 250px;
+  width: 150px;
+  color: white;
+}
+h2{
+  font-size: 38px;
+}
+h3{
+  font-size: 20px;
+}
+/* header */
+h1{
+  border: 2px solid black;
+  width: 100px;
+}
+.headerLogo{
+  font-size: 1.1em;
+  color: teal;
+}
+.header{
+  background: rgba(0, 0, 100, 0.05);
+}
+.header h1{
+  font-size: 24px;
+}
+.nav img{
+  width: 21px;
+  height:30px;
+}
+.header h2{
+  font-size: 45px;
+  text-align: center
+}
+.header button{
+height: 53px;
+width: 232px;
+}
+.shopno img{
+width: 69px;
+height: 84px;
+}
+/* About */
+.about{
+   background: rgba(0, 0, 50, 0.05);
+   font-size: 38px;
+   text-align: center
+}
+.about p{
+  font-size: 18px;
+}
+
+.about img{
+  width: 390px;
+  height: 483;
+}
+/* Works */
+.works p{
+  font-size: 17px;
+}
+.works img{
+  width: 360;
+  height: 355;
+}
+.imgList{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 18px 15px;
+}
+/* Services */
+
+.services h3{
+  font-size: 20px;
+}
+.services p{
+  font-size: 16px;
+}
+/* Team */
+.team p{
+  font-size: 17px;
+}
+.team img{
+  width: 369px;
+  height: 441px;
+  text-align: center
+}
+.team link{
+  width: 103px;
+  height: 23px;
+}
+/* Say */
+.say .personList{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 14px 16px;
+}
+.say p{
+  font-size: 17px;
+}
+.say img{
+  width: 315px;
+  height: 413px;
+}
+.say text{
+  font-size: 38px;
+}
+.say p{
+  font-size: 17px;
+}
+.say button{
+  width: 52px;
+  height: 52px;
+}
+.say text{
+  font-size: 15px;
+}
+.say img{
+  width: 452px;
+  height: 255px;
+}
